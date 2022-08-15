@@ -1,9 +1,9 @@
-# Android Information Commands
+## Android Information Commands
 
-## Show android screen
+### Show android screen
 $ scrcpy (on PC)
 
-## ADB shell commands
+### ADB shell commands
 
 $ adb shell dumpsys
 ```
@@ -47,5 +47,5 @@ $ adb shell cat /proc/zraminfo
 ```
 
 
-Other resources
+### Other resources
 1. [ADB Shell Commands List and Detailed Cheat Sheet](https://technastic.com/adb-shell-commands-list/)
