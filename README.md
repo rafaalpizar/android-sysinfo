@@ -1,8 +1,11 @@
 # Android Information Commands
 
-## adb shell commands
+## Show android screen
+$ scrcpy (on PC)
 
-$ dumpsys
+## ADB shell commands
+
+$ adb shell dumpsys
 ```
 What it is possible to dump:
 - dumpsys cpuinfo
@@ -35,12 +38,12 @@ What it is possible to dump:
 ```
 
 ```
-$ getprop
-$ cat /proc/buddyinfo
-$ cat /proc/cpuinfo
-$ cat /proc/meminfo
-$ cat /proc/zoneinfo
-$ cat /proc/zraminfo
+$ adb shell getprop
+$ adb shell cat /proc/buddyinfo
+$ adb shell cat /proc/cpuinfo
+$ adb shell cat /proc/meminfo
+$ adb shell cat /proc/zoneinfo
+$ adb shell cat /proc/zraminfo
 ```
 
 
