@@ -4,7 +4,7 @@
 
 ```
 $ dumpsys
-$ getproc
+$ getprop
 $ cat /proc/buddyinfo
 $ cat /proc/cpuinfo
 $ cat /proc/meminfo
