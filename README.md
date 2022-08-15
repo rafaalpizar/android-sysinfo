@@ -1,15 +1,13 @@
-# adb shell commands
+# Android Information Commands
 
-dumpsys
+## adb shell commands
 
-getproc
-
-cat /proc/buddyinfo
-
-cat /proc/cpuinfo
-
-cat /proc/meminfo
-
-cat /proc/zoneinfo
-
-cat /proc/zraminfo
+```
+$ dumpsys
+$ getproc
+$ cat /proc/buddyinfo
+$ cat /proc/cpuinfo
+$ cat /proc/meminfo
+$ cat /proc/zoneinfo
+$ cat /proc/zraminfo
+```
