@@ -42,3 +42,7 @@ $ cat /proc/meminfo
 $ cat /proc/zoneinfo
 $ cat /proc/zraminfo
 ```
+
+
+Other resources
+1. [ADB Shell Commands List and Detailed Cheat Sheet](https://technastic.com/adb-shell-commands-list/)
