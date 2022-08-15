@@ -5,6 +5,9 @@
 $ dumpsys
 ```
 What it is possible to dump:
+- dumpsys cpuinfo
+- dumpsys batterystats
+- dumpsys battery
 - ACCESSIBILITY MANAGER (dumpsys accessibility)
 - ACTIVITY MANAGER PENDING INTENTS (dumpsys activity intents)
 - ACTIVITY MANAGER BROADCAST STATE (dumpsys activity broadcasts)
